@@ -42,8 +42,8 @@ password_manager.exe
 
 
 On first run, the program will ask you to create a master password.
-
-Usage Example
+**
+**Usage Example****
 
 Create a master password (on first run).
 
@@ -59,12 +59,12 @@ Delete credentials
 
 Exit the program
 
-Screenshots
+**Screenshots**
 
 <img width="434" height="144" alt="output1" src="https://github.com/user-attachments/assets/50b9a890-2cc0-4b6e-9062-77a747e57189" />
 <img width="746" height="314" alt="output2" src="https://github.com/user-attachments/assets/24ce319b-b8b2-474a-b9be-12229f7d257f" />
 
-Future Improvements
+**Future Improvements**
 
 Add search by site name
 
@@ -76,17 +76,17 @@ Password auto-generation
 
 Cross-platform compatibility without getch()
 
-Author
+**Author**
 
 Name: Ansh Shukla
 
 GitHub: https://github.com/ujjwal031shukla-svg
 
-License
+**##License**
 
 This project is for learning and educational purposes.
 
 
 
-## Project Structure
+
 
